@@ -1,3 +1,4 @@
 # README
 
-Changing the doc
+1. Changing the doc
+2. Further Edits
